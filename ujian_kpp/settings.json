@@ -1,7 +1,5 @@
-[
-    {
-        "close": false,
-        "redirect": false,
-        "url": ""
-    }
-]
+{
+    "close": false,
+    "redirect": false,
+    "url": ""
+}
