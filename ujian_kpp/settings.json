@@ -1,5 +1,5 @@
 {
-    "close": true,
-    "redirect": false,
-    "url": ""
+    "close": false,
+    "redirect": true,
+    "url": "www.google.com"
 }
