@@ -1,5 +1,5 @@
 {
-    "close": true,
+    "close": false,
     "redirect": false,
     "url": ""
 }
