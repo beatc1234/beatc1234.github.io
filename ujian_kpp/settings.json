@@ -2,7 +2,7 @@
     "close": false,
     "redirect": true,
     "url": "https://play.google.com/store/apps/details?id=com.cfbstudioapps.kpp_test",
-    "app_id": "6-7-2021-testing",
-    "build_number": "",
-    "version": ""
+    "app_id": "",
+    "build_number": "1.0.0",
+    "version": "7"
 }
