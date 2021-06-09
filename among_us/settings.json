@@ -2,5 +2,7 @@
     "close": false,
     "redirect": true,
     "url": "https://play.google.com/store/apps/details?id=com.cfbstudioapps.unofficial_guide_among_us",
-    "app_id": "6-7-2021-testing"
+    "app_id": "6-7-2021-testing",
+    "build_number": "7",
+    "version": "1.0.0"
 }
