@@ -2,7 +2,5 @@
     "close": false,
     "redirect": false,
     "url": "https://play.google.com/store/apps/details?id=",
-    "build_number": "1",
-    "version": "1.0.0",
-    "package_name": ""
+    "package_name": "com.beatcstudio.gi_wish_simulator"
 }
