@@ -1,6 +1,9 @@
 {
     "close": false,
-    "redirect": false,
-    "url": "https://www.google.com",
-    "app_id": "6-7-2021-testing"
+    "redirect": true,
+    "url": "https://play.google.com/store/apps/details?id=com.cfbstudioapps.poket_upsr",
+    "app_id": "",
+    "build_number": "2",
+    "version": "1.0.0",
+    "package_name": "com.cfbstudioapps.poket_upsr"
 }
